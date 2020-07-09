@@ -1,6 +1,6 @@
-           __      .--------------.
+           __      .-------------.
       (___()'`;   | Hi there!  👋 |
-      /,    /`   -'---------------'                  
+      /,    /`   -'--------------'                  
       \\"--\\      
 
 💬 **Ask me about:** [My dog](https://instagram.com/gusgusgusaroo). Or... Java and Javascript 
@@ -18,7 +18,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+-  on ...
 - 🌱 I’m currently learning ...
 -  collaborate on ...
 - 🤔 I’m looking for help with ...
