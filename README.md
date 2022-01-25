@@ -3,11 +3,9 @@
       /,    /`   -'--------------'                  
       \\"--\\      
 
-💬 **Ask me about:** [My dog](https://instagram.com/gusgusgusaroo). Or... Java and Javascript 
-
 🌱 **I’m currently learning:** Reverse engineering (and by extension assembly, using ghidra, gdb etc) 
 
-👯 **I’m looking to:** Finally start contributing more back to F/OSS in 2020/2021 (more important things have happened in 2020 so far)
+👯 **I’m looking to:** Finally start contributing more back to F/OSS in 2021/2022 (more important things have happened in 2020-21 so far)
 
 😄 **Pronouns:** He/Him
 
